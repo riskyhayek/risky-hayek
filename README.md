@@ -10,7 +10,7 @@ In local, it is a simple streamlit app. So just run:
 streamlit run streamlit_app.py
 ```
 
-The only environment variable you need to set is `ALPHAVANTAGE_API_KEY`, look for it at 1Password.
+The only environment variableS you need to set ARE `ALPHAVANTAGE_API_KEY` and `INVESTMENTS_API_URL`.
 
 
 ## How to deploy
